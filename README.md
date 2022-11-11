@@ -4,5 +4,5 @@
 ### :hammer_and_wrench: Tech Tools: 
 <div>
  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/tree/master/icons/bash" title="bash" alt="bash" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/tree/master/icons/bash-plain.svg" title="bash" alt="bash" width="40" height="40"/>&nbsp;
 </div>
