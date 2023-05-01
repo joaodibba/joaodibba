@@ -1,4 +1,4 @@
-### Hello, World! I'm João.
+### Hello World! I'm João.
 
 ### :hammer_and_wrench: Tech Tools and Interests: 
 <div>
