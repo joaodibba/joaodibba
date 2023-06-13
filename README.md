@@ -14,7 +14,7 @@
 </p>
 </div>
 
-[![jalves-c's 42 stats](https://badge42.vercel.app/api/v2/clacptmip00250flbknwssui8/stats?cursusId=21&coalitionId=111)](https://github.com/JaeSeoKim/badge42)
+[![jalves-c's 42 stats](https://badge42.vercel.app/api/v2/clacptmip00250flbknwssui8/stats?cursusId=21&coalitionId=288)](https://github.com/JaeSeoKim/badge42)
 <img height="170m" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaodibba&layout=compact&langs_count=7&theme=prussian"/>
 
 
