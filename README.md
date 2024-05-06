@@ -18,7 +18,7 @@ I'm a software developer who is passionate about building and creating things, s
 
 ### 42 School
 
-[![42 School](https://badge.mediaplus.ma/darkblue/jalves-c?1337Badge=off&UM6P=off)](https://www.42lisboa.pt/)
+[![jalves-c's 42 stats](https://badge.mediaplus.ma/black/jalves-c?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
 #### 📫 Reach me
 
