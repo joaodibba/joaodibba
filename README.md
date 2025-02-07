@@ -7,4 +7,3 @@ I'm a software developer passionate about building and creating things, solving 
 ### 📫 Reach Me
 
 - [LinkedIn](https://www.linkedin.com/in/joaodibba/)
-- [Instagram](https://www.instagram.com/joaodibba/)
