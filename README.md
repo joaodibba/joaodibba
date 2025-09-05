@@ -8,7 +8,7 @@ I enjoy working with cool stuff and exploring new technologies.
 - 📚 Constantly learning and improving  
 
 ## 💼 Current Role
-Junior Dev at **[CarrotIncentives](https://github.com/carrotincentives)** 🚀  
+Junior Dev at **[Carrot Incentives](https://github.com/carrotincentives)** 🚀  
 
 ## 🛠️ Languages & Tools
 
