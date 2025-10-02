@@ -22,3 +22,8 @@ Junior Dev at **[Carrot Incentives](https://github.com/carrotincentives)** 🚀
 	<img src="https://github-readme-stats.vercel.app/api?username=joaodibba&show_icons=true&theme=dark" alt="GitHub stats" height="180"/>
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaodibba&layout=compact&theme=dark" alt="Top Languages" height="180"/>
 </p>
+
+## 🧮 Roadmap
+<p align="center">
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/6537fbdc035e8d1be733a8f2?variant=dark&roadmaps=%2Cdocker%2Ckubernetes%2Cpostgresql-dba" alt="roadmap.sh"/></a>
+<p
