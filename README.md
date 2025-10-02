@@ -19,7 +19,7 @@ Junior Dev at **[Carrot Incentives](https://github.com/carrotincentives)** 🚀
 
 ## 📊 GitHub Stats & Activity
 <p align="center">
-	<img src="https://github-readme-stats.vercel.app/api?username=joaodibba&show_icons=true&theme=dark" alt="GitHub stats" height="180"/>
+	<img src="https://github-readme-stats.vercel.app/api?username=joaodibba&show_icons=true&theme=dark" alt="GitHub stats" height="165"/>
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaodibba&layout=compact&theme=dark" alt="Top Languages" height="180"/>
 </p>
 
