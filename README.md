@@ -7,9 +7,6 @@ I enjoy working with cool stuff and exploring new technologies.
 - 🌍 Open to collaborating on open source and interesting projects  
 - 📚 Constantly learning and improving  
 
-## 💼 Current Role
-Junior Dev at **[Carrot Incentives](https://github.com/carrotincentives)** 🚀  
-
 ## 🛠️ Languages & Tools
 
 | 💻 Languages | 🧩 Frameworks | 🗄️ Databases | ☁️ DevOps | 🎨 Design |
