@@ -10,4 +10,4 @@ I enjoy working with cool stuff and exploring new technologies.
 
 | 💻 Languages | 🧩 Frameworks | 🗄️ Databases | ☁️ DevOps | 🎨 Design |
 |--------------|--------------|--------------|-----------|-----------|
-| <img src="https://skillicons.dev/icons?i=java,ts,go,python,c,cpp,bash,swift" /> | <img src="https://skillicons.dev/icons?i=nestjs,django,angular,vite" /> | <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" /> | <img src="https://skillicons.dev/icons?i=kubernetes,docker,githubactions" /> | <img src="https://skillicons.dev/icons?i=ps,ai" />
+| <img src="https://skillicons.dev/icons?i=java,ts,go,python,c,cpp,bash,swift" /> | <img src="https://skillicons.dev/icons?i=nestjs,django,angular,vite,next" /> | <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" /> | <img src="https://skillicons.dev/icons?i=kubernetes,docker,githubactions" /> | <img src="https://skillicons.dev/icons?i=ps,ai,figma" />
